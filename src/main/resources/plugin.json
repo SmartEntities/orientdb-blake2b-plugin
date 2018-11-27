@@ -1,0 +1,8 @@
+{
+	"name" : "blake2-plugin",
+	"version" : "3.0.0",
+	"javaClass": "com.smartentities.plugins.blake2b.plugin.Blake2bPlugin",
+	"parameters" : {},
+	"description" : "The Blake2b Plugin",
+	"copyrights" : "No copyrights"
+}
