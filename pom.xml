@@ -12,6 +12,28 @@
 		<orientdb.version>3.0.0</orientdb.version>
 	</properties>
 
+	<organization>
+		<name>SmartEntities Technology Solutions (SETS) pvt. ltd.</name>
+		<url>http://smartentities.com/</url>
+	</organization>
+
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Jignesh Dhua</name>
+			<email>jignesh@smartentities.com</email>
+			<organization>SmartEntities Technology Solutions (SETS) pvt. ltd.</organization>
+			<organizationUrl>http://smartentities.com</organizationUrl>
+		</developer>
+	</developers>
+
 	<build>
 		<plugins>
 			<plugin>
